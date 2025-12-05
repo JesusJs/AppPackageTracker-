@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Package.Domain.Entity;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -8,6 +9,6 @@ namespace Package.Domain.Interfaces
 {
     public interface IPackageRepository
     {
-        void CreatePackage();
+        Task<string> CreatePackage(PackageEntity datos);
     }
 }

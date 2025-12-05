@@ -1,13 +1,26 @@
-﻿using Package.Application.Interfaces;
+﻿using AutoMapper;
+using Package.Application.Interfaces;
+using Package.Domain.Entity;
+using Package.Domain.Interfaces;
+using Package.Domain.Models;
 
 namespace Package.Application.UseCase
 {
     public class PackageUseCase : IPackageUseCase
     {
-        public async Task<string> Create()
+        private readonly IMapper? _mapper;
+        private readonly IPackageRepository _repo;
+
+        public PackageUseCase(IMapper mapper, IPackageRepository repo)
         {
-            var response = "Retornando producto";
-            return await Task.FromResult(response);
+            _mapper = mapper;
+            _repo = repo;
+        }
+        public async Task<string> Create(PackageModels datos)
+        {
+            var response = await _repo.CreatePackage(_mapper.Map<PackageEntity>(datos));
+
+            return response;
         }
     }
 }

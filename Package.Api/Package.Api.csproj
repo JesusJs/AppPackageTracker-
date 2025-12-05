@@ -3,6 +3,7 @@
 		<FrameworkReference Include="Microsoft.AspNetCore.App"></FrameworkReference>
 	</ItemGroup>
 	<ItemGroup>
+		<PackageReference Include="AutoMapper" Version="16.0.0" />
 		<PackageReference Include="FastEndpoints" Version="7.1.1" />
 	</ItemGroup>
 	<ItemGroup>

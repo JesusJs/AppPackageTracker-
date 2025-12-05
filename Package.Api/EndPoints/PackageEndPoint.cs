@@ -1,22 +1,27 @@
-﻿using Microsoft.AspNetCore.Builder;
+﻿using AutoMapper;
+using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.Logging;
 using Package.Api.Dtos;
 using Package.Application.Interfaces;
+using Package.Domain.Models;
 
 public static class PackageEndpoints
 {
-    public static void MapProductEndpoints(this WebApplication app)
+  
+    public static void MapPackageEndPoint(this WebApplication app)
     {
-        app.MapGet("/package/create", async (IPackageUseCase Package, ILogger logger) =>
+
+
+        app.MapPost("/package/create", async (
+        IPackageUseCase packageUseCase,  
+        IMapper mapper,                
+        PackageDto dto) =>
         {
-            logger.LogInformation("Recibida solicitud GET en /PackageCreate");
-            var pro = await Package.ObtenerProducto();
-            return pro;
-        }).WithName("GetProductPackage")
-            .Produces<PackageResultDto>(StatusCodes.Status200OK)
-            .Produces(StatusCodes.Status404NotFound)
-            .ProducesProblem(StatusCodes.Status500InternalServerError);
+            var datos = mapper.Map<PackageModels>(dto);
+            var resultMessage = await packageUseCase.Create(datos);
+            return resultMessage;
+        });
 
     }
 }

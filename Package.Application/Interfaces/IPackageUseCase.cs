@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Package.Domain.Models;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -8,6 +9,6 @@ namespace Package.Application.Interfaces
 {
     public interface IPackageUseCase
     {
-        Task<string> Create();
+        Task<string> Create(PackageModels datos);
     }
 }

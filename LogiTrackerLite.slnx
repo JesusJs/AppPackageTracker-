@@ -9,10 +9,17 @@
     <Project Path="Package.Domain/Package.Domain.csproj" />
     <Project Path="Package.Infrastructure/Package.Infrastructure.csproj" />
   </Folder>
+  <Folder Name="/Modelos/Tracking/">
+    <Project Path="Tracking.Api/Tracking.Api.csproj" Id="3ab3d5ef-186f-4ec4-a143-4cecef3ef441" />
+    <Project Path="Tracking.Application/Tracking.Application.csproj" Id="14fc888e-4580-4ebd-96d7-0f75b1252d03" />
+    <Project Path="Tracking.Domain/Tracking.Domain.csproj" Id="06d112f6-42cf-43a9-9c28-b4381ff6a619" />
+    <Project Path="Tracking.Infrastructure/Tracking.Infrastructure.csproj" Id="69387d8f-4b8f-4afe-9c17-90b5b02ef690" />
+  </Folder>
   <Folder Name="/Solution Items/">
     <File Path=".env" />
     <File Path="Directory.Build.props" />
     <File Path="docker-compose.override.yml" />
     <File Path="docker-compose.yml" />
+    <File Path="Tracking.Infrastructure/DataSender/TrackingSender.cs" />
   </Folder>
 </Solution>

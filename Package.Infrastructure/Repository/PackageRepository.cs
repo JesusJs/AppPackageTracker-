@@ -1,12 +1,30 @@
-﻿using Package.Domain.Interfaces;
+﻿using Package.Domain.Entity;
+using Package.Domain.Interfaces;
+using Package.Infrastructure.Context;
 
 namespace Package.Infrastructure.Repository
 {
     public class PackageRepository : IPackageRepository
     {
-        public void CreatePackage()
+        private readonly PackageDbContext? _db;
+
+        public PackageRepository(PackageDbContext db)
+        { 
+             _db   = db;
+        }
+        public async Task<string> CreatePackage( PackageEntity datos)
         {
-            throw new NotImplementedException();
+            try
+            {
+                var result = _db.Package.Add(datos);
+                await _db.SaveChangesAsync();
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine("Que paos aqui", e);
+            }
+
+            return "Registrado";
         }
     }
 }

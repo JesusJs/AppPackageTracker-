@@ -10,10 +10,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Config\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\Package.Application\Package.Application.csproj" />
     <ProjectReference Include="..\Package.Domain\Package.Domain.csproj" />
   </ItemGroup>
