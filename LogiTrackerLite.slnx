@@ -1,0 +1,18 @@
+<Solution>
+  <Folder Name="/Hosts/">
+    <Project Path="LogiTrackerLite/LogiTrackLite.csproj" />
+  </Folder>
+  <Folder Name="/Modelos/" />
+  <Folder Name="/Modelos/Package/">
+    <Project Path="Package.Api/Package.Api.csproj" />
+    <Project Path="Package.Application/Package.Application.csproj" />
+    <Project Path="Package.Domain/Package.Domain.csproj" />
+    <Project Path="Package.Infrastructure/Package.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/Solution Items/">
+    <File Path=".env" />
+    <File Path="Directory.Build.props" />
+    <File Path="docker-compose.override.yml" />
+    <File Path="docker-compose.yml" />
+  </Folder>
+</Solution>

@@ -1,0 +1,75 @@
+## --- COMPILACIÓN .NET ---
+bin/
+obj/
+out/
+Debug/
+Release/
+x64/
+x86/
+*.dll
+*.exe
+
+## --- CONFIGURACIONES DE USUARIO ---
+*.user
+*.suo
+*.userosscache
+*.userprefs
+
+## --- ENTORNOS Y SECRETS ---
+.env
+*.env
+.env.*
+!.env.example
+secrets.json
+
+## --- ASP.NET CORE CONFIG ---
+appsettings.Development.json
+appsettings.Local.json
+appsettings.*.local.json
+appsettings.*.dev.json
+
+# Si quieres ignorar todos los appsettings excepto el principal:
+#appsettings.*.json
+#!appsettings.json
+
+## --- CACHE Y LOGS ---
+*.log
+logs/
+log/
+*.db-wal
+*.db-shm
+
+## --- EDITORES ---
+.vscode/
+.idea/
+*.swp
+*.swo
+
+## --- NUGET ---
+*.nupkg
+*.snupkg
+packages/
+.nuget/
+
+## --- EF CORE ---
+# Ignora la carpeta Migrations si quieres generarlas dinámicamente
+#Migrations/
+
+## --- DOCKER ---
+docker-compose.override.yml
+**/docker-compose.override.yml
+
+## --- PUBLICACIÓN ---
+publish/
+dist/
+artefacts/
+
+## --- SISTEMA ---
+.DS_Store
+Thumbs.db
+
+## --- TESTING ---
+TestResults/
+*.coverage
+*.coveragexml
+coverage/
