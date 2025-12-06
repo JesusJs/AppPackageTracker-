@@ -10,6 +10,7 @@ namespace Package.Api.Dtos
     {
         public class Package
         {
+            public int Id { get; set; }
             public required string TrackingID { get; set; }
             public required string RecipientName { get; set; }
             public required string RecipientAddress { get; set; }

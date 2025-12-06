@@ -8,6 +8,7 @@ namespace Package.Domain.Entity
 {
     public class PackageEntity
     {
+        public required string Id { get; set; }
         public required string TrackingID { get; set; }
         public required string RecipientName { get; set; }
         public required string RecipientAddress { get; set; }

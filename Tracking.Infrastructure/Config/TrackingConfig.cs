@@ -13,7 +13,8 @@ namespace Tracking.Infrastructure.Config
     {
         public void Configure(EntityTypeBuilder<TrackingEntity> builder)
         {
-            builder.ToTable("TrackingLog");
+            builder.ToTable("TrackingHistory")
+                .HasKey(e => e.Id);
         }
 }
 }

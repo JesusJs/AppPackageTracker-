@@ -10,7 +10,11 @@ namespace Package.Api.Mappers
         public AutoMapperTrackingProfile()
         {
             // 1. Mapeo de Entrada
-            CreateMap<TrackingDto, TrackingModels>();
+            CreateMap<TrackingDto, TrackingModels>()
+                .ForMember(
+                    dest => dest.Id,
+                    opt => opt.Ignore()
+                );
             CreateMap<TrackingModels, TrackingDto>();
             CreateMap<TrackingEntity, TrackingModels>();
             CreateMap<TrackingModels, TrackingEntity>();

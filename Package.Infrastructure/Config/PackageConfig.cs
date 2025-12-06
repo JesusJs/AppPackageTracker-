@@ -13,7 +13,8 @@ namespace Package.Infrastructure.Config
     {
         public void Configure(EntityTypeBuilder<PackageEntity> builder)
         {
-            builder.ToTable("Package");
+            builder.ToTable("Packages")
+                .HasKey(e=> e.Id);
         }
 }
 }
