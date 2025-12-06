@@ -8,8 +8,9 @@ namespace Tracking.Api.Dtos
 {
     public class TrackingDto
     {
-        public required DateTime Date { get; set; }
+        public int HistoryID { get; set; }
+        public required string PackageTrackingID { get; set; }
         public required string Location { get; set; }
-        public required string StateType { get; set; }
+        public required DateTime Timestamp { get; set; }
     }
 }

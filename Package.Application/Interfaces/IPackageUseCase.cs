@@ -9,6 +9,9 @@ namespace Package.Application.Interfaces
 {
     public interface IPackageUseCase
     {
-        Task<string> Create(PackageModels datos);
+        Task<(bool Success, string response)> Create(PackageModels datos);
+        Task<PackageModels?> GetById(int id);
+        Task<(bool Success, bool Exists)> Update(int id, PackageModels model);
+        Task<(bool Success, bool Exists)> Delete(int id);
     }
 }

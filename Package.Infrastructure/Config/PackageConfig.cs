@@ -14,7 +14,6 @@ namespace Package.Infrastructure.Config
         public void Configure(EntityTypeBuilder<PackageEntity> builder)
         {
             builder.ToTable("Package");
-            builder.HasKey(e => e.Id);
         }
 }
 }
