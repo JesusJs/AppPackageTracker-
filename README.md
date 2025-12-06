@@ -16,8 +16,6 @@ Estructura modular con repositorios, casos de uso, mappers y endpoints en una ar
 
 Validación básica de datos, separación por capas y DI.
 
-Estructura lista para pruebas unitarias (por tiempo, no fueron implementadas).
-
 El alcance realizado está completamente alineado con el tiempo disponible: 8 horas no permiten completar un sistema tipo Dev Crack, pero sí una base sólida de arquitectura modular y un CRUD parcial funcional.
 
 Arquitectura Implementada
