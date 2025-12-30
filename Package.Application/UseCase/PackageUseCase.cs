@@ -10,11 +10,13 @@ namespace Package.Application.UseCase
     {
         private readonly IMapper? _mapper;
         private readonly IPackageRepository _repo;
+        private readonly IPackageEventPublisher _publisher;
 
-        public PackageUseCase(IMapper mapper, IPackageRepository repo)
+        public PackageUseCase(IMapper mapper, IPackageRepository repo, IPackageEventPublisher publisher)
         {
             _mapper = mapper;
             _repo = repo;
+            _publisher = publisher;
         }
         public async Task<(bool Success, string response)> Create(PackageModels datos)
         {
@@ -37,6 +39,9 @@ namespace Package.Application.UseCase
                 Depth = 5.0m,
                 CurrentState = "CREATED"
             };
+
+            var prueba =  await _publisher.PublishPackageCreated("Obteniendo datos por id");
+
             return  myPackage;
         }
 

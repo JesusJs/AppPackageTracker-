@@ -28,7 +28,7 @@ public static class PackageEndpoints
         });
 
 
-        app.MapGet("/package/{id:int}", async (
+        app.MapGet("/package/get/{id:int}", async (
             int id,
             IPackageUseCase packageUseCase,
             IMapper mapper) =>

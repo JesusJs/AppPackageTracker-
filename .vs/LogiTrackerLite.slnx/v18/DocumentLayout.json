@@ -3,8 +3,96 @@
   "WorkspaceRootPath": "C:\\Users\\knes\\Desktop\\AppLogiTracker\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\knes\\Desktop\\AppLogiTracker\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+      "AbsoluteMoniker": "D:0:0:{EBB495D3-4546-4694-B090-3107D56E2F15}|LogiTrackLite.Shared\\LogiTrackLite.Shared.csproj|c:\\users\\knes\\desktop\\applogitracker\\logitracklite.shared\\messaginghostedservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBB495D3-4546-4694-B090-3107D56E2F15}|LogiTrackLite.Shared\\LogiTrackLite.Shared.csproj|solutionrelative:logitracklite.shared\\messaginghostedservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBB495D3-4546-4694-B090-3107D56E2F15}|LogiTrackLite.Shared\\LogiTrackLite.Shared.csproj|c:\\users\\knes\\desktop\\applogitracker\\logitracklite.shared\\rabbitmqpersistentconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBB495D3-4546-4694-B090-3107D56E2F15}|LogiTrackLite.Shared\\LogiTrackLite.Shared.csproj|solutionrelative:logitracklite.shared\\rabbitmqpersistentconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69387D8F-4B8F-4AFE-9C17-90B5B02EF690}|Tracking.Infrastructure\\Tracking.Infrastructure.csproj|c:\\users\\knes\\desktop\\applogitracker\\tracking.infrastructure\\messaging\\rabbitmq\\events\\createtrackingrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69387D8F-4B8F-4AFE-9C17-90B5B02EF690}|Tracking.Infrastructure\\Tracking.Infrastructure.csproj|solutionrelative:tracking.infrastructure\\messaging\\rabbitmq\\events\\createtrackingrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69387D8F-4B8F-4AFE-9C17-90B5B02EF690}|Tracking.Infrastructure\\Tracking.Infrastructure.csproj|c:\\users\\knes\\desktop\\applogitracker\\tracking.infrastructure\\messaging\\rabbitmq\\packagecreatedconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69387D8F-4B8F-4AFE-9C17-90B5B02EF690}|Tracking.Infrastructure\\Tracking.Infrastructure.csproj|solutionrelative:tracking.infrastructure\\messaging\\rabbitmq\\packagecreatedconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B70AD94-42DC-A571-BBA9-E434AA7F466E}|Package.Infrastructure\\Package.Infrastructure.csproj|c:\\users\\knes\\desktop\\applogitracker\\package.infrastructure\\messaging\\rabbitmq\\rabbitmqpackageeventpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B70AD94-42DC-A571-BBA9-E434AA7F466E}|Package.Infrastructure\\Package.Infrastructure.csproj|solutionrelative:package.infrastructure\\messaging\\rabbitmq\\rabbitmqpackageeventpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36853DD9-10A0-E17E-8995-16A0C5445AC6}|Package.Application\\Package.Application.csproj|c:\\users\\knes\\desktop\\applogitracker\\package.application\\usecase\\packageusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36853DD9-10A0-E17E-8995-16A0C5445AC6}|Package.Application\\Package.Application.csproj|solutionrelative:package.application\\usecase\\packageusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8550065-9F5B-1510-E33D-DB713A9749F2}|Package.Api\\Package.Api.csproj|c:\\users\\knes\\desktop\\applogitracker\\package.api\\endpoints\\packageendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8550065-9F5B-1510-E33D-DB713A9749F2}|Package.Api\\Package.Api.csproj|solutionrelative:package.api\\endpoints\\packageendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36853DD9-10A0-E17E-8995-16A0C5445AC6}|Package.Application\\Package.Application.csproj|c:\\users\\knes\\desktop\\applogitracker\\package.application\\interfaces\\ipackageeventpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36853DD9-10A0-E17E-8995-16A0C5445AC6}|Package.Application\\Package.Application.csproj|solutionrelative:package.application\\interfaces\\ipackageeventpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14FC888E-4580-4EBD-96D7-0F75B1252D03}|Tracking.Application\\Tracking.Application.csproj|c:\\users\\knes\\desktop\\applogitracker\\tracking.application\\usecase\\trackingusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14FC888E-4580-4EBD-96D7-0F75B1252D03}|Tracking.Application\\Tracking.Application.csproj|solutionrelative:tracking.application\\usecase\\trackingusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{875C2B09-7ACB-C830-7DDF-5ACF91248D0D}|LogiTrackerLite\\LogiTrackLite.csproj|c:\\users\\knes\\desktop\\applogitracker\\logitrackerlite\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{875C2B09-7ACB-C830-7DDF-5ACF91248D0D}|LogiTrackerLite\\LogiTrackLite.csproj|solutionrelative:logitrackerlite\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{875C2B09-7ACB-C830-7DDF-5ACF91248D0D}|LogiTrackerLite\\LogiTrackLite.csproj|c:\\users\\knes\\desktop\\applogitracker\\logitrackerlite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{875C2B09-7ACB-C830-7DDF-5ACF91248D0D}|LogiTrackerLite\\LogiTrackLite.csproj|solutionrelative:logitrackerlite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36853DD9-10A0-E17E-8995-16A0C5445AC6}|Package.Application\\Package.Application.csproj|c:\\users\\knes\\desktop\\applogitracker\\package.application\\interfaces\\ipackageusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36853DD9-10A0-E17E-8995-16A0C5445AC6}|Package.Application\\Package.Application.csproj|solutionrelative:package.application\\interfaces\\ipackageusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{875C2B09-7ACB-C830-7DDF-5ACF91248D0D}|LogiTrackerLite\\LogiTrackLite.csproj|c:\\users\\knes\\desktop\\applogitracker\\logitrackerlite\\global.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{875C2B09-7ACB-C830-7DDF-5ACF91248D0D}|LogiTrackerLite\\LogiTrackLite.csproj|solutionrelative:logitrackerlite\\global.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBB495D3-4546-4694-B090-3107D56E2F15}|LogiTrackLite.Shared\\LogiTrackLite.Shared.csproj|c:\\users\\knes\\desktop\\applogitracker\\logitracklite.shared\\interfaces\\irabbitmqconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBB495D3-4546-4694-B090-3107D56E2F15}|LogiTrackLite.Shared\\LogiTrackLite.Shared.csproj|solutionrelative:logitracklite.shared\\interfaces\\irabbitmqconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBB495D3-4546-4694-B090-3107D56E2F15}|LogiTrackLite.Shared\\LogiTrackLite.Shared.csproj|c:\\users\\knes\\desktop\\applogitracker\\logitracklite.shared\\interfaces\\itrackingconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBB495D3-4546-4694-B090-3107D56E2F15}|LogiTrackLite.Shared\\LogiTrackLite.Shared.csproj|solutionrelative:logitracklite.shared\\interfaces\\itrackingconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14FC888E-4580-4EBD-96D7-0F75B1252D03}|Tracking.Application\\Tracking.Application.csproj|c:\\users\\knes\\desktop\\applogitracker\\tracking.application\\interfaces\\itrackingusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14FC888E-4580-4EBD-96D7-0F75B1252D03}|Tracking.Application\\Tracking.Application.csproj|solutionrelative:tracking.application\\interfaces\\itrackingusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69387D8F-4B8F-4AFE-9C17-90B5B02EF690}|Tracking.Infrastructure\\Tracking.Infrastructure.csproj|c:\\users\\knes\\desktop\\applogitracker\\tracking.infrastructure\\datasender\\trackingsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69387D8F-4B8F-4AFE-9C17-90B5B02EF690}|Tracking.Infrastructure\\Tracking.Infrastructure.csproj|solutionrelative:tracking.infrastructure\\datasender\\trackingsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69387D8F-4B8F-4AFE-9C17-90B5B02EF690}|Tracking.Infrastructure\\Tracking.Infrastructure.csproj|c:\\users\\knes\\desktop\\applogitracker\\tracking.infrastructure\\tracking.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{69387D8F-4B8F-4AFE-9C17-90B5B02EF690}|Tracking.Infrastructure\\Tracking.Infrastructure.csproj|solutionrelative:tracking.infrastructure\\tracking.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{875C2B09-7ACB-C830-7DDF-5ACF91248D0D}|LogiTrackerLite\\LogiTrackLite.csproj|c:\\users\\knes\\desktop\\applogitracker\\logitrackerlite\\logitracklite.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{875C2B09-7ACB-C830-7DDF-5ACF91248D0D}|LogiTrackerLite\\LogiTrackLite.csproj|solutionrelative:logitrackerlite\\logitracklite.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B70AD94-42DC-A571-BBA9-E434AA7F466E}|Package.Infrastructure\\Package.Infrastructure.csproj|c:\\users\\knes\\desktop\\applogitracker\\package.infrastructure\\context\\packagedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B70AD94-42DC-A571-BBA9-E434AA7F466E}|Package.Infrastructure\\Package.Infrastructure.csproj|solutionrelative:package.infrastructure\\context\\packagedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{875C2B09-7ACB-C830-7DDF-5ACF91248D0D}|LogiTrackerLite\\LogiTrackLite.csproj|c:\\users\\knes\\desktop\\applogitracker\\logitrackerlite\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{875C2B09-7ACB-C830-7DDF-5ACF91248D0D}|LogiTrackerLite\\LogiTrackLite.csproj|solutionrelative:logitrackerlite\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B70AD94-42DC-A571-BBA9-E434AA7F466E}|Package.Infrastructure\\Package.Infrastructure.csproj|c:\\users\\knes\\desktop\\applogitracker\\package.infrastructure\\datasender\\packagesender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B70AD94-42DC-A571-BBA9-E434AA7F466E}|Package.Infrastructure\\Package.Infrastructure.csproj|solutionrelative:package.infrastructure\\datasender\\packagesender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B70AD94-42DC-A571-BBA9-E434AA7F466E}|Package.Infrastructure\\Package.Infrastructure.csproj|c:\\users\\knes\\desktop\\applogitracker\\package.infrastructure\\repository\\packagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B70AD94-42DC-A571-BBA9-E434AA7F466E}|Package.Infrastructure\\Package.Infrastructure.csproj|solutionrelative:package.infrastructure\\repository\\packagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +102,22 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 9,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PackageEndPoint.cs",
+              "DocumentMoniker": "C:\\Users\\knes\\Desktop\\AppLogiTracker\\Package.Api\\EndPoints\\PackageEndPoint.cs",
+              "RelativeDocumentMoniker": "Package.Api\\EndPoints\\PackageEndPoint.cs",
+              "ToolTip": "C:\\Users\\knes\\Desktop\\AppLogiTracker\\Package.Api\\EndPoints\\PackageEndPoint.cs",
+              "RelativeToolTip": "Package.Api\\EndPoints\\PackageEndPoint.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T03:09:56.298Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:2076281050:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
@@ -38,15 +140,288 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PackageCreatedConsumer.cs",
+              "DocumentMoniker": "C:\\Users\\knes\\Desktop\\AppLogiTracker\\Tracking.Infrastructure\\Messaging\\RabbitMQ\\PackageCreatedConsumer.cs",
+              "RelativeDocumentMoniker": "Tracking.Infrastructure\\Messaging\\RabbitMQ\\PackageCreatedConsumer.cs",
+              "ToolTip": "C:\\Users\\knes\\Desktop\\AppLogiTracker\\Tracking.Infrastructure\\Messaging\\RabbitMQ\\PackageCreatedConsumer.cs",
+              "RelativeToolTip": "Tracking.Infrastructure\\Messaging\\RabbitMQ\\PackageCreatedConsumer.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T03:09:26.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateTrackingRequest.cs",
+              "DocumentMoniker": "C:\\Users\\knes\\Desktop\\AppLogiTracker\\Tracking.Infrastructure\\Messaging\\RabbitMQ\\Events\\CreateTrackingRequest.cs",
+              "RelativeDocumentMoniker": "Tracking.Infrastructure\\Messaging\\RabbitMQ\\Events\\CreateTrackingRequest.cs",
+              "ToolTip": "C:\\Users\\knes\\Desktop\\AppLogiTracker\\Tracking.Infrastructure\\Messaging\\RabbitMQ\\Events\\CreateTrackingRequest.cs",
+              "RelativeToolTip": "Tracking.Infrastructure\\Messaging\\RabbitMQ\\Events\\CreateTrackingRequest.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T03:38:47.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RabbitMqPersistentConnection.cs",
+              "DocumentMoniker": "C:\\Users\\knes\\Desktop\\AppLogiTracker\\LogiTrackLite.Shared\\RabbitMqPersistentConnection.cs",
+              "RelativeDocumentMoniker": "LogiTrackLite.Shared\\RabbitMqPersistentConnection.cs",
+              "ToolTip": "C:\\Users\\knes\\Desktop\\AppLogiTracker\\LogiTrackLite.Shared\\RabbitMqPersistentConnection.cs",
+              "RelativeToolTip": "LogiTrackLite.Shared\\RabbitMqPersistentConnection.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAACAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T23:59:05.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "README.md",
-              "DocumentMoniker": "C:\\Users\\knes\\Desktop\\AppLogiTracker\\README.md",
-              "RelativeDocumentMoniker": "README.md",
-              "ToolTip": "C:\\Users\\knes\\Desktop\\AppLogiTracker\\README.md",
-              "RelativeToolTip": "README.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2025-12-06T00:59:47.441Z",
+              "Title": "MessagingHostedService.cs",
+              "DocumentMoniker": "C:\\Users\\knes\\Desktop\\AppLogiTracker\\LogiTrackLite.Shared\\MessagingHostedService.cs",
+              "RelativeDocumentMoniker": "LogiTrackLite.Shared\\MessagingHostedService.cs",
+              "ToolTip": "C:\\Users\\knes\\Desktop\\AppLogiTracker\\LogiTrackLite.Shared\\MessagingHostedService.cs",
+              "RelativeToolTip": "LogiTrackLite.Shared\\MessagingHostedService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T23:58:06.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RabbitMqPackageEventPublisher.cs",
+              "DocumentMoniker": "C:\\Users\\knes\\Desktop\\AppLogiTracker\\Package.Infrastructure\\Messaging\\RabbitMQ\\RabbitMqPackageEventPublisher.cs",
+              "RelativeDocumentMoniker": "Package.Infrastructure\\Messaging\\RabbitMQ\\RabbitMqPackageEventPublisher.cs",
+              "ToolTip": "C:\\Users\\knes\\Desktop\\AppLogiTracker\\Package.Infrastructure\\Messaging\\RabbitMQ\\RabbitMqPackageEventPublisher.cs",
+              "RelativeToolTip": "Package.Infrastructure\\Messaging\\RabbitMQ\\RabbitMqPackageEventPublisher.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T03:27:33.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PackageUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\knes\\Desktop\\AppLogiTracker\\Package.Application\\UseCase\\PackageUseCase.cs",
+              "RelativeDocumentMoniker": "Package.Application\\UseCase\\PackageUseCase.cs",
+              "ToolTip": "C:\\Users\\knes\\Desktop\\AppLogiTracker\\Package.Application\\UseCase\\PackageUseCase.cs",
+              "RelativeToolTip": "Package.Application\\UseCase\\PackageUseCase.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAYwFYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T03:18:43.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TrackingUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\knes\\Desktop\\AppLogiTracker\\Tracking.Application\\UseCase\\TrackingUseCase.cs",
+              "RelativeDocumentMoniker": "Tracking.Application\\UseCase\\TrackingUseCase.cs",
+              "ToolTip": "C:\\Users\\knes\\Desktop\\AppLogiTracker\\Tracking.Application\\UseCase\\TrackingUseCase.cs",
+              "RelativeToolTip": "Tracking.Application\\UseCase\\TrackingUseCase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T02:26:57.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IPackageEventPublisher.cs",
+              "DocumentMoniker": "C:\\Users\\knes\\Desktop\\AppLogiTracker\\Package.Application\\Interfaces\\IPackageEventPublisher.cs",
+              "RelativeDocumentMoniker": "Package.Application\\Interfaces\\IPackageEventPublisher.cs",
+              "ToolTip": "C:\\Users\\knes\\Desktop\\AppLogiTracker\\Package.Application\\Interfaces\\IPackageEventPublisher.cs",
+              "RelativeToolTip": "Package.Application\\Interfaces\\IPackageEventPublisher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T03:56:17.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\knes\\Desktop\\AppLogiTracker\\LogiTrackerLite\\appsettings.json",
+              "RelativeDocumentMoniker": "LogiTrackerLite\\appsettings.json",
+              "ToolTip": "C:\\Users\\knes\\Desktop\\AppLogiTracker\\LogiTrackerLite\\appsettings.json",
+              "RelativeToolTip": "LogiTrackerLite\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-29T23:10:17.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IPackageUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\knes\\Desktop\\AppLogiTracker\\Package.Application\\Interfaces\\IPackageUseCase.cs",
+              "RelativeDocumentMoniker": "Package.Application\\Interfaces\\IPackageUseCase.cs",
+              "ToolTip": "C:\\Users\\knes\\Desktop\\AppLogiTracker\\Package.Application\\Interfaces\\IPackageUseCase.cs",
+              "RelativeToolTip": "Package.Application\\Interfaces\\IPackageUseCase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T21:14:28.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\knes\\Desktop\\AppLogiTracker\\LogiTrackerLite\\Program.cs",
+              "RelativeDocumentMoniker": "LogiTrackerLite\\Program.cs",
+              "ToolTip": "C:\\Users\\knes\\Desktop\\AppLogiTracker\\LogiTrackerLite\\Program.cs",
+              "RelativeToolTip": "LogiTrackerLite\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAswBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T01:39:17.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "global.json",
+              "DocumentMoniker": "C:\\Users\\knes\\Desktop\\AppLogiTracker\\LogiTrackerLite\\global.json",
+              "RelativeDocumentMoniker": "LogiTrackerLite\\global.json",
+              "ToolTip": "C:\\Users\\knes\\Desktop\\AppLogiTracker\\LogiTrackerLite\\global.json",
+              "RelativeToolTip": "LogiTrackerLite\\global.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-30T04:10:17.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IRabbitMqConnection.cs",
+              "DocumentMoniker": "C:\\Users\\knes\\Desktop\\AppLogiTracker\\LogiTrackLite.Shared\\Interfaces\\IRabbitMqConnection.cs",
+              "RelativeDocumentMoniker": "LogiTrackLite.Shared\\Interfaces\\IRabbitMqConnection.cs",
+              "ToolTip": "C:\\Users\\knes\\Desktop\\AppLogiTracker\\LogiTrackLite.Shared\\Interfaces\\IRabbitMqConnection.cs",
+              "RelativeToolTip": "LogiTrackLite.Shared\\Interfaces\\IRabbitMqConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T23:59:11.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ITrackingConsumer.cs",
+              "DocumentMoniker": "C:\\Users\\knes\\Desktop\\AppLogiTracker\\LogiTrackLite.Shared\\Interfaces\\ITrackingConsumer.cs",
+              "RelativeDocumentMoniker": "LogiTrackLite.Shared\\Interfaces\\ITrackingConsumer.cs",
+              "ToolTip": "C:\\Users\\knes\\Desktop\\AppLogiTracker\\LogiTrackLite.Shared\\Interfaces\\ITrackingConsumer.cs",
+              "RelativeToolTip": "LogiTrackLite.Shared\\Interfaces\\ITrackingConsumer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T04:02:30.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ITrackingUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\knes\\Desktop\\AppLogiTracker\\Tracking.Application\\Interfaces\\ITrackingUseCase.cs",
+              "RelativeDocumentMoniker": "Tracking.Application\\Interfaces\\ITrackingUseCase.cs",
+              "ToolTip": "C:\\Users\\knes\\Desktop\\AppLogiTracker\\Tracking.Application\\Interfaces\\ITrackingUseCase.cs",
+              "RelativeToolTip": "Tracking.Application\\Interfaces\\ITrackingUseCase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T03:42:48.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TrackingSender.cs",
+              "DocumentMoniker": "C:\\Users\\knes\\Desktop\\AppLogiTracker\\Tracking.Infrastructure\\DataSender\\TrackingSender.cs",
+              "RelativeDocumentMoniker": "Tracking.Infrastructure\\DataSender\\TrackingSender.cs",
+              "ToolTip": "C:\\Users\\knes\\Desktop\\AppLogiTracker\\Tracking.Infrastructure\\DataSender\\TrackingSender.cs",
+              "RelativeToolTip": "Tracking.Infrastructure\\DataSender\\TrackingSender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T03:41:00.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Tracking.Infrastructure",
+              "DocumentMoniker": "C:\\Users\\knes\\Desktop\\AppLogiTracker\\Tracking.Infrastructure\\Tracking.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Tracking.Infrastructure\\Tracking.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\knes\\Desktop\\AppLogiTracker\\Tracking.Infrastructure\\Tracking.Infrastructure.csproj",
+              "RelativeToolTip": "Tracking.Infrastructure\\Tracking.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-30T03:08:53.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LogiTrackLite.http",
+              "DocumentMoniker": "C:\\Users\\knes\\Desktop\\AppLogiTracker\\LogiTrackerLite\\LogiTrackLite.http",
+              "RelativeDocumentMoniker": "LogiTrackerLite\\LogiTrackLite.http",
+              "ToolTip": "C:\\Users\\knes\\Desktop\\AppLogiTracker\\LogiTrackerLite\\LogiTrackLite.http",
+              "RelativeToolTip": "LogiTrackerLite\\LogiTrackLite.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-12-29T23:53:33.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PackageDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\knes\\Desktop\\AppLogiTracker\\Package.Infrastructure\\Context\\PackageDbContext.cs",
+              "RelativeDocumentMoniker": "Package.Infrastructure\\Context\\PackageDbContext.cs",
+              "ToolTip": "C:\\Users\\knes\\Desktop\\AppLogiTracker\\Package.Infrastructure\\Context\\PackageDbContext.cs",
+              "RelativeToolTip": "Package.Infrastructure\\Context\\PackageDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T23:45:41.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\knes\\Desktop\\AppLogiTracker\\LogiTrackerLite\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "LogiTrackerLite\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\knes\\Desktop\\AppLogiTracker\\LogiTrackerLite\\appsettings.Development.json",
+              "RelativeToolTip": "LogiTrackerLite\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-29T23:10:35.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PackageSender.cs",
+              "DocumentMoniker": "C:\\Users\\knes\\Desktop\\AppLogiTracker\\Package.Infrastructure\\DataSender\\PackageSender.cs",
+              "RelativeDocumentMoniker": "Package.Infrastructure\\DataSender\\PackageSender.cs",
+              "ToolTip": "C:\\Users\\knes\\Desktop\\AppLogiTracker\\Package.Infrastructure\\DataSender\\PackageSender.cs",
+              "RelativeToolTip": "Package.Infrastructure\\DataSender\\PackageSender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T02:57:33.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PackageRepository.cs",
+              "DocumentMoniker": "C:\\Users\\knes\\Desktop\\AppLogiTracker\\Package.Infrastructure\\Repository\\PackageRepository.cs",
+              "RelativeDocumentMoniker": "Package.Infrastructure\\Repository\\PackageRepository.cs",
+              "ToolTip": "C:\\Users\\knes\\Desktop\\AppLogiTracker\\Package.Infrastructure\\Repository\\PackageRepository.cs",
+              "RelativeToolTip": "Package.Infrastructure\\Repository\\PackageRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T03:51:19.042Z",
               "EditorCaption": ""
             }
           ]

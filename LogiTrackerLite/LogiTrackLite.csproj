@@ -11,9 +11,8 @@
 
 
   <ItemGroup>
+    <ProjectReference Include="..\LogiTrackLite.Shared\LogiTrackLite.Shared.csproj" />
     <ProjectReference Include="..\Package.Api\Package.Api.csproj" />
-    <ProjectReference Include="..\Package.Application\Package.Application.csproj" />
-    <ProjectReference Include="..\Package.Domain\Package.Domain.csproj" />
     <ProjectReference Include="..\Package.Infrastructure\Package.Infrastructure.csproj" />
     <ProjectReference Include="..\Tracking.Api\Tracking.Api.csproj" />
     <ProjectReference Include="..\Tracking.Infrastructure\Tracking.Infrastructure.csproj" />

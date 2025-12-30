@@ -1,6 +1,7 @@
 <Solution>
   <Folder Name="/Hosts/">
     <Project Path="LogiTrackerLite/LogiTrackLite.csproj" />
+    <Project Path="LogiTrackLite.Shared/LogiTrackLite.Shared.csproj" Id="ebb495d3-4546-4694-b090-3107d56e2f15" />
   </Folder>
   <Folder Name="/Modelos/" />
   <Folder Name="/Modelos/Package/">

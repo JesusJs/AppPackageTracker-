@@ -22,5 +22,10 @@ namespace Tracking.Application.UseCase
 
             return response;
         }
+
+        public Task Execute(TrackingModels data)
+        {
+            throw new NotImplementedException();
+        }
     }
 }
