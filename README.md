@@ -1,0 +1,1 @@
+Modular Monolith architecture using Hexagonal Architecture (Ports & Adapters), event-driven communication with RabbitMQ, and clear separation of Domain, Application, and Infrastructure layers. Designed for scalability, observability, and future evolution to microservices.
